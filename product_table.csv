@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price
+P001,Shampoo,Personal Care,10.0
+P002,Toothpaste,Personal Care,7.75
+P003,Biscuits,Food,5.0
+P004,Cookies,Food,12.5
+P005,Lotion,Personal Care,15.0
+P006,Juice,Drinks,9.0
+P007,Soda,Drinks,8.0
+P008,Notebook,Stationery,3.5
+P009,Pen,Stationery,1.25
+P010,Soap,Personal Care,4.0
